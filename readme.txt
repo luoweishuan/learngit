@@ -1,3 +1,1 @@
-hello git
-
-Hello github
+I am a text ..
